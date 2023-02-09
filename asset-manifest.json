@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/checkout-creditcard/static/css/main.0111cc4e.css",
+    "main.js": "/checkout-creditcard/static/js/main.0ef46a3c.js",
+    "static/js/787.f16b5c56.chunk.js": "/checkout-creditcard/static/js/787.f16b5c56.chunk.js",
+    "static/media/bg-main-desktop.png": "/checkout-creditcard/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/bg-card-back.png": "/checkout-creditcard/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/checkout-creditcard/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "static/media/bg-main-mobile.png": "/checkout-creditcard/static/media/bg-main-mobile.caa4689407777a312ede.png",
+    "index.html": "/checkout-creditcard/index.html",
+    "static/media/icon-complete.svg": "/checkout-creditcard/static/media/icon-complete.8fd757c0c5c44b1d597c.svg",
+    "static/media/card-logo.svg": "/checkout-creditcard/static/media/card-logo.8ca9036515954c3f8191559dce9c7bdf.svg",
+    "main.0111cc4e.css.map": "/checkout-creditcard/static/css/main.0111cc4e.css.map",
+    "main.0ef46a3c.js.map": "/checkout-creditcard/static/js/main.0ef46a3c.js.map",
+    "787.f16b5c56.chunk.js.map": "/checkout-creditcard/static/js/787.f16b5c56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0111cc4e.css",
+    "static/js/main.0ef46a3c.js"
+  ]
+}
